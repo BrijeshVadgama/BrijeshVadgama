@@ -99,8 +99,6 @@ Feel free to reach out to me at **brijesh.vadgama03@gmail.com** or connect with 
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brijeshvadgama&show_icons=true&locale=en&layout=compact" alt="brijeshvadgama" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshvadgama&" alt="brijeshvadgama" /></p>
-
 ---
 
 ### 🤝 Connect with Me
