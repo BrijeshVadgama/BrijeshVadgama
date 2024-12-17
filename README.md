@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshvadgama&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshvadgama" /> </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshvadgama&" alt="brijeshvadgama" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
