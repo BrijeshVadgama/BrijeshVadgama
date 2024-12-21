@@ -33,7 +33,7 @@ I enjoy discussing and sharing knowledge on:
 ---
 
 ### 📫 How to Reach Me
-Feel free to reach out to me at **brijesh.vadgama03@gmail.com** or connect with me on social media:
+Feel free to reach out to me at **brijuvadgama@gmail.com** or connect with me on social media:
 
 <p align="left">
   <a href="https://linkedin.com/in/brijeshvadgama" target="_blank">
