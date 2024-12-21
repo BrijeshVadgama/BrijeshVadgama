@@ -34,7 +34,7 @@ Whether you're building a simple API or a complex web application, **BoilerExpre
 
 ---
 
-Feel free to reach out to me for collaboration, suggestions, or any questions about this project!
+Feel free to reach out to me for suggestions, or any questions about this project!
 
 ### 📫 How to Reach Me
 - **Email**: brijuvadgama@gmail.com
