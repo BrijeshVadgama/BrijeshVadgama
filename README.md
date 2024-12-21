@@ -96,4 +96,4 @@ Feel free to reach out to me at **brijesh.vadgama03@gmail.com** or connect with 
 ---
 
 ### 🤝 Connect with Me
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Reach out via email or connect with me on LinkedIn, Instagram, or HackerRank.
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Reach out via email or connect with me on LinkedIn, Instagram.
