@@ -17,7 +17,7 @@ I love learning new technologies and am always eager to take on new challenges t
 
 ---
 
-## 🚀 My Latest Node Project
+## 🚀 My Latest NodeJS Project
 
 **[BoilerExpressMVC](https://www.npmjs.com/package/boilerexpressmvc)** - Node.js Express API with MVC Structure
 
@@ -50,9 +50,6 @@ I enjoy discussing and sharing knowledge on:
 - **ReactJS** and **Redux** for frontend development.
 
 ---
-
-### 📫 How to Reach Me
-Feel free to reach out to me at **brijuvadgama@gmail.com** or connect with me on social media:
 
 <p align="left">
   <a href="https://linkedin.com/in/brijeshvadgama" target="_blank">
