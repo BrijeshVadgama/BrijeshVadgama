@@ -6,7 +6,8 @@
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
+
 I'm a web developer with a passion for building dynamic and efficient web applications. I specialize in:
 - **NodeJS ExpressJS** for building scalable backend applications.
 - **ReactJS** for creating responsive and user-friendly frontend interfaces.
@@ -16,11 +17,29 @@ I love learning new technologies and am always eager to take on new challenges t
 
 ---
 
-### 🌱 Currently Learning
-I'm currently expanding my knowledge in:
-- **NodeJS ExpressJS** to deepen my backend development expertise.
-- **ReactJS** to enhance my frontend skills.
-- **TypeScript** to improve my codebase structure and maintainability.
+## 🚀 My Latest Node Project
+
+**[BoilerExpressMVC](https://www.npmjs.com/package/boilerexpressmvc)** - Node.js Express API with MVC Structure
+
+**BoilerExpressMVC** is a well-structured boilerplate project designed to kickstart your Node.js Express applications with an MVC (Model-View-Controller) architecture. This project provides a clean and organized structure for building scalable and maintainable APIs, making it easy to manage business logic, routes, and data models.
+
+### Key Features:
+- **MVC Architecture**: Follows the Model-View-Controller design pattern to separate the application's concerns, ensuring easier maintenance and scalability.
+- **Node.js & Express.js**: Utilizes Node.js for the backend runtime and Express.js for creating the RESTful API.
+- **Modular and Scalable**: The project is modular, allowing you to add new features and extend functionalities with minimal effort.
+- **Database Integration**: Easily integrates with databases like MongoDB or MySQL, allowing you to manage data efficiently.
+- **Clean Code Structure**: The project structure is designed to be clean and easy to understand, so you can quickly get started with your own Node.js API projects.
+
+Whether you're building a simple API or a complex web application, **BoilerExpressMVC** serves as an excellent foundation to kick off your Node.js and Express development journey with an MVC design approach.
+
+---
+
+Feel free to reach out to me for collaboration, suggestions, or any questions about this project!
+
+### 📫 How to Reach Me
+- **Email**: brijuvadgama@gmail.com
+- **LinkedIn**: [Brijesh Vadgama](https://linkedin.com/in/brijeshvadgama)
+- **Instagram**: [@brijeshvadgama_](https://instagram.com/brijeshvadgama_)
 
 ---
 
