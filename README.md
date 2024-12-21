@@ -88,12 +88,5 @@ Feel free to reach out to me at **brijesh.vadgama03@gmail.com** or connect with 
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brijeshvadgama&show_icons=true&locale=en&layout=compact" alt="brijeshvadgama" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brijeshvadgama&show_icons=true&locale=en" alt="brijeshvadgama" /></p>
-
----
-
 ### 🤝 Connect with Me
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Reach out via email or connect with me on LinkedIn, Instagram.
